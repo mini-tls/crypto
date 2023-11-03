@@ -1,2 +1,2 @@
 # crypto
-Our crypto libary implemented in C and used in out mini-tls.
+Our crypto library implemented in C and used in out mini-tls.
